@@ -1,0 +1,85 @@
+.name {
+    font-size: 43px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    height: 50px;
+    line-height: 40px;
+    background-color: cadetblue;
+    border: solid 5px black;
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.contact {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    height: 50px;
+    background-color: cadetblue;
+    border: solid 5px black;
+    text-align: center;
+    vertical-align: text-bottom;
+    padding-top: 10px;
+}
+
+.item {
+    width: 275px;
+    height: 40px;
+    line-height: 40px;
+    background-color: aquamarine ;
+    border: solid 2px black;
+    border-radius: 25px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.sections {
+    margin: 10px auto 10px auto;
+    width: 900px;
+    background-color: cornflowerblue;
+    border: solid 5px black;
+    position: relative;
+    overflow:hidden;
+    height:1%;
+}
+
+.title {
+    display: block;
+    position: absolute;
+    width: 200px;
+    left: 10px;
+    top: 10px;
+    background-color: aquamarine ;
+    border: solid 3px black;
+    border-radius: 25px;
+    font-size: 25px;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.description {
+    position: relative;
+    width: 600px;
+    left: 250px;
+    top: 10px;
+    font-size: 13px;
+    background-color: ghostwhite;
+    border: solid 3px black;
+    border-radius: 25px;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.spacer {
+    clear:both;
+}
+
